@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! I'm a Business Systems Specialist 🚀
 
-<!--
-**Purplewells/purplewells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I sit at the intersection of business infrastructure, data design, and **Ethical Cybersecurity**. I specialise in building robust, efficient systems while ensuring they are locked down against modern threats. 
 
-Here are some ideas to get you started:
+Right now, I'm focusing on healthcare technology architecture and teaching the next generation of builders how to visualise complex data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Working On Right Now
+
+*   **🏥 PowerHealthcare Application:** Designing and developing an enterprise-grade healthcare application focused on high availability, data privacy, and seamless business workflows.
+*   **📊 Teaching Data Modeling:** Creating comprehensive guides and visual content to teach relational data modeling using the **Mermaid Live Editor**—making architecture intuitive and accessible.
+
+---
+
+### 💻 My Tech Stack & Toolkit
+
+``` shares
+# Languages & Frameworks
+- C# / .NET / ASP.NET Core
+- SQL (Database Architecture & Optimisation)
+- PowerShell (Automation & System Scripting)
+
+# Core Interests
+- Ethical Cybersecurity & Threat Modelling
+- Business Process Automation
+- System Architecture & Data Modelling
