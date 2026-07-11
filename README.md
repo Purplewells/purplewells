@@ -1,4 +1,4 @@
-## Hey there! I'm a Business Systems Specialist 🚀
+## 🚀 Hey there! I'm a Business Systems Specialist 
 
 I sit at the intersection of business infrastructure, data design, and **Ethical Cybersecurity**. I specialise in building robust, efficient systems while ensuring they are locked down against modern threats. 
 
