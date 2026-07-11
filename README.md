@@ -8,8 +8,9 @@ Right now, I'm focusing on healthcare technology architecture and teaching the n
 
 ### 🛠️ What I'm Working On Right Now
 
-*   **🏥 PowerHealthcare Application:** Designing and developing an enterprise-grade healthcare application focused on high availability, data privacy, and seamless business workflows.
-* **📊 Teaching Data Modelling:** Creating comprehensive guides and visual content to teach relational data modelling using the **Mermaid Live Editor**—making architecture intuitive and accessible.
+- **🏥 PowerHealthcare Application:** Designing and developing an enterprise-grade healthcare application focused on high availability, data privacy, and seamless business workflows.
+- **📊 Teaching Data Modelling:** Creating comprehensive guides and visual content to teach relational data modelling using Mermaid Live Editor,**making architecture intuitive and accessible.
+- **📊 Music Library Cleaner:** Scans music files, groups, removes duplicates, and classifies them. 
 
 ---
 
