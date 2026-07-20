@@ -24,7 +24,7 @@ Right now, I'm focusing on healthcare technology architecture, cybersecurity and
 - ☁️ Exploring **Cloud Engineering**, **DevOps**, **Containerisation**, and **Infrastructure Automation** capabilities.
 - 🌐 Designing **enterprise architectures** that are scalable, resilient, interoperable, and AI-ready.
 - 📚 Learning and experimenting with emerging technologies in **AI, Cybersecurity, Cloud Computing, and Modern Data Engineering**.
-- **📊 Music Library Cleaner:** Scans music files, groups, removes duplicates, and classifies them using PowerShell.
+- **📊 Music Library Cleaner:** Scans music files, groups them, removes duplicates, and classifies them using PowerShell.
 
 
 ## 💻 My Tech Stack & Toolkit
@@ -60,11 +60,3 @@ Exploring:
 - Security architecture
 - Incident response
 - AI cybersecurity applications
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purplewells&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purplewells&layout=compact&theme=transparent)
-
-
