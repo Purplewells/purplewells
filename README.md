@@ -1,4 +1,5 @@
 ## 🚀 Hey there! I'm a Data Engineer & Business Systems Specialist 
+<img src="./ben_github_banner.png" width="100%" />
 
 I sit at the intersection of business infrastructure, data design, and **Ethical Cybersecurity**. I specialise in building robust, efficient systems while ensuring they are locked down against modern threats. 
 
