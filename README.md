@@ -27,9 +27,9 @@ My work sits at the intersection of **data engineering, cybersecurity, digital t
 | 🏥 [Healthcare Transformation Engine](https://github.com/Purplewells/HealthcareTransformationEngine) | Metadata-driven ETL engine for transforming data into HL7 FHIR resources. |
 | 🎵 [MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner) | PowerShell tool for organising and deduplicating music libraries. |
 | 🛡️ [Retail Risk Assessment](https://github.com/Purplewells/retail-risk-assessment-nist-csf) | NIST CSF 2.0 cybersecurity risk assessment for retail. |
-| 🎓 [NextSchoolTask](https://github.com/Purplewells/NextSchoolTask) | School management and academic task platform. |
+| 🎓 [NextTask](https://github.com/Purplewells/NextSchoolTask) | School management and academic task platform. |
 | ♻️ [WasteCall](https://github.com/Purplewells/WasteCall) | Waste reporting and collection management platform. |
-| 💊 [Replenix](https://github.com/Purplewells/Replenix) | Healthcare application for clinical workflows. |
+| 💊 [Replenix](https://github.com/Purplewells/Replenix) | Merchandise management, inventory & pricing solution. |
 
 
 ### 💻 My Tech Stack & Toolkit
