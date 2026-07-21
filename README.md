@@ -10,8 +10,6 @@ My work sits at the intersection of **data engineering, cybersecurity, digital t
 - ⚙️ Automated, scalable, and maintainable
 - 🛡️ Aligned with governance, risk, and compliance principles
 
-I enjoy insights into modern data platforms, enterprise applications, and business solutions that combine engineering discipline, security principles, and innovative technologies.
-
 ### 🚀 What I'm Working On
 - 🔄 Building metadata-driven ETL frameworks with Airflow, Python, PowerShell, SQL Server & Azure.
 - 🤖 Exploring AI solutions for smarter decision-making and automation.
@@ -22,8 +20,19 @@ I enjoy insights into modern data platforms, enterprise applications, and busine
 - 🎵 Building a PowerShell music library cleaner for deduplication and organisation.
 - 🏗️ Building cloud-native data platforms with scalable ETL/ELT pipelines.
 
+### 🚀 Featured Projects
 
-## 💻 My Tech Stack & Toolkit
+| Project | Description |
+|---------|-------------|
+| 🏥 [Healthcare Transformation Engine](https://github.com/Purplewells/HealthcareTransformationEngine) | Metadata-driven ETL engine for transforming data into HL7 FHIR resources. |
+| 🎵 [MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner) | PowerShell tool for organising and deduplicating music libraries. |
+| 🛡️ [Retail Risk Assessment](https://github.com/Purplewells/retail-risk-assessment-nist-csf) | NIST CSF 2.0 cybersecurity risk assessment for retail. |
+| 🎓 [NextSchoolTask](https://github.com/Purplewells/NextSchoolTask) | School management and academic task platform. |
+| ♻️ [WasteCall](https://github.com/Purplewells/WasteCall) | Waste reporting and collection management platform. |
+| 💊 [Replenix](https://github.com/Purplewells/Replenix) | Healthcare application for clinical workflows. |
+
+
+### 💻 My Tech Stack & Toolkit
 #### Languages & Frameworks
 - C# / .NET / ASP.NET Core
 - PowerShell (Automation & System Scripting)
@@ -31,30 +40,15 @@ I enjoy insights into modern data platforms, enterprise applications, and busine
 - Apache Airflow • AI • Data Engineering
 - Data Governance • Risk Management • Cybersecurity • Compliance
 - DevOps • Docker
-
-## 🛠️ Current Projects
-
-### MusicLibCleaner
-
-A PowerShell-based music library management tool that scans audio collections, identifies duplicates, organises files, and classifies music for a cleaner, more manageable library.
-
-➡️ **Repository:** [github.com/Purplewells/MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner)
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🏥 [Healthcare Transformation Engine](https://github.com/Purplewells/HealthcareTransformationEngine) | Metadata-driven healthcare ETL engine for transforming CSV, JSON, XML, and HL7 into FHIR resources. |
-| 🎵 [MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner) | PowerShell tool for organising music libraries, removing duplicates, and classifying audio collections. |
-
-### 🏥 Healthcare Information Platform
+  
+#### 🏥 Healthcare Information Platform
 Designing a modern healthcare ecosystem focused on:
 - Patient-centred workflows
 - Clinical data management
 - Healthcare interoperability
 - Secure multi-tenant architecture
 
-### ⚙️ Metadata-driven ETL Framework
+#### ⚙️ Metadata-driven ETL Framework
 Building scalable data pipelines using:
 - Apache Airflow
 - SQL Server
@@ -62,12 +56,9 @@ Building scalable data pipelines using:
 - PowerShell
 - Metadata-based transformation rules
 
-### 🔐 Security Engineering Research
+#### 🔐 Security Engineering Research
 Exploring:
 - Threat modelling
 - Security architecture
 - Incident response
 - AI cybersecurity applications
-
-  ## 🎵 Featured Project
-
