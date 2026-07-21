@@ -32,7 +32,15 @@ I enjoy insights into modern data platforms, enterprise applications, and busine
 - Data Governance • Risk Management • Cybersecurity • Compliance
 - DevOps • Docker
 
-# 🛠️ Current Projects
+## 🛠️ Current Projects
+
+### MusicLibCleaner
+
+A PowerShell-based music library management tool that scans audio collections, identifies duplicates, organises files, and classifies music for a cleaner, more manageable library.
+
+➡️ **Repository:** [github.com/Purplewells/MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner)
+
+
 ### 🏥 Healthcare Information Platform
 Designing a modern healthcare ecosystem focused on:
 - Patient-centred workflows
@@ -54,3 +62,6 @@ Exploring:
 - Security architecture
 - Incident response
 - AI cybersecurity applications
+
+  ## 🎵 Featured Project
+
