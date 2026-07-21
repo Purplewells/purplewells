@@ -3,19 +3,16 @@
 
 ### 🚀 Data Platform Engineer | Business Systems Integration| Cybersecurity | AI
 
-My work sits at the intersection of **data engineering, cybersecurity, digital transformation, and healthcare systems**, with a strong focus on building platforms that are:
+My work sits at the intersection of **data engineering, cybersecurity, digital transformation, and business systems integration**, with a strong focus on building platforms that are:
 - 🔐 Secure by design
 - 📊 Data-driven and insight-focused
 - 🏥 Interoperable and healthcare-ready
 - ⚙️ Automated, scalable, and maintainable
 - 🛡️ Aligned with governance, risk, and compliance principles
 
-I enjoy designing modern data platforms, enterprise applications, and business solutions that combine engineering discipline, security principles, and innovative technologies.
+I enjoy insights into modern data platforms, enterprise applications, and business solutions that combine engineering discipline, security principles, and innovative technologies.
 
-Right now, I'm focusing on healthcare technology architecture, cybersecurity and teaching the next generation of builders how to visualise complex data.
-
-## 🚀 What I'm Working On
-
+### 🚀 What I'm Working On
 - 🔄 Developing **metadata-driven ETL frameworks** using **Apache Airflow, PowerShell, Python, SQL Server, and Azure**.
 - 🤖 Exploring **AI-powered applications** to improve decision-making and operational efficiency.
 - 📊 Creating **BI solutions** with **Power BI, SQL Server, and Azure Data Services**.
@@ -27,17 +24,15 @@ Right now, I'm focusing on healthcare technology architecture, cybersecurity and
 
 
 ## 💻 My Tech Stack & Toolkit
-
 #### Languages & Frameworks
 - C# / .NET / ASP.NET Core
 - PowerShell (Automation & System Scripting)
-- SQL Server • Azure • Power BI • ETL/ELT
+- SQL Server • Azure • Power BI • Azure Data Factory (ETL/ELT) • SSIS Integration
 - Apache Airflow • AI • Data Engineering
 - Data Governance • Risk Management • Cybersecurity • Compliance
 - DevOps • Docker
 
 # 🛠️ Current Projects
-
 ### 🏥 Healthcare Information Platform
 Designing a modern healthcare ecosystem focused on:
 - Patient-centred workflows
@@ -47,7 +42,6 @@ Designing a modern healthcare ecosystem focused on:
 
 ### ⚙️ Metadata-driven ETL Framework
 Building scalable data pipelines using:
-
 - Apache Airflow
 - SQL Server
 - Python
@@ -56,7 +50,6 @@ Building scalable data pipelines using:
 
 ### 🔐 Security Engineering Research
 Exploring:
-
 - Threat modelling
 - Security architecture
 - Incident response
