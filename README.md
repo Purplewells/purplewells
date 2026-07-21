@@ -13,14 +13,14 @@ My work sits at the intersection of **data engineering, cybersecurity, digital t
 I enjoy insights into modern data platforms, enterprise applications, and business solutions that combine engineering discipline, security principles, and innovative technologies.
 
 ### 🚀 What I'm Working On
-- 🔄 Developing **metadata-driven ETL frameworks** using **Apache Airflow, PowerShell, Python, SQL Server, and Azure**.
-- 🤖 Exploring **AI-powered applications** to improve decision-making and operational efficiency.
-- 📊 Creating **BI solutions** with **Power BI, SQL Server, and Azure Data Services**.
-- ☁️ Exploring **Cloud Engineering**, **DevOps**, **Containerisation**, and **Infrastructure Automation** capabilities.
-- 🌐 Designing **enterprise architectures** that are scalable, resilient, interoperable, and AI-ready.
-- 📚 Learning and experimenting with emerging technologies in **AI, Cybersecurity and Modern Data Engineering**.
-- 📊 Music Library Cleaner:** Scans music files, groups them, removes duplicates, and classifies them using PowerShell.
-- 🏗️ Building **modern data platforms** with scalable ETL/ELT pipelines, metadata-driven orchestration, and cloud-native architectures.
+- 🔄 Building metadata-driven ETL frameworks with Airflow, Python, PowerShell, SQL Server & Azure.
+- 🤖 Exploring AI solutions for smarter decision-making and automation.
+- 📊 Developing BI solutions with Power BI, SQL Server & Azure.
+- ☁️ Learning Cloud Engineering, DevOps, Containers & Infrastructure Automation.
+- 🌐 Designing scalable, resilient, interoperable, AI-ready enterprise architectures.
+- 📚 Exploring AI, Cybersecurity & Modern Data Engineering.
+- 🎵 Building a PowerShell music library cleaner for deduplication and organisation.
+- 🏗️ Building cloud-native data platforms with scalable ETL/ELT pipelines.
 
 
 ## 💻 My Tech Stack & Toolkit
