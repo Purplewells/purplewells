@@ -40,6 +40,12 @@ A PowerShell-based music library management tool that scans audio collections, i
 
 ➡️ **Repository:** [github.com/Purplewells/MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner)
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏥 [Healthcare Transformation Engine](https://github.com/Purplewells/HealthcareTransformationEngine) | Metadata-driven healthcare ETL engine for transforming CSV, JSON, XML, and HL7 into FHIR resources. |
+| 🎵 [MusicLibCleaner](https://github.com/Purplewells/MusicLibCleaner) | PowerShell tool for organising music libraries, removing duplicates, and classifying audio collections. |
 
 ### 🏥 Healthcare Information Platform
 Designing a modern healthcare ecosystem focused on:
