@@ -1,7 +1,7 @@
 
 <img src="./ben_github_banner.png" width="100%" />
 
-### 🚀 Data Platform Engineer | Business Systems Integration| Cybersecurity | AI
+### Senior Data Platform & Business Intelligence Developer | Secure Data Engineering | SQL Server | Azure | PowerShell | Cyber Security | Data Governance | GRC
 
 My work sits at the intersection of **data engineering, cybersecurity, digital transformation, and business systems integration**, with a strong focus on building platforms that are:
 - 🔐 Secure by design
