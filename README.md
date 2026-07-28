@@ -3,12 +3,7 @@
 
 ### Senior Data Platform & Business Intelligence Developer | Secure Data Engineering | SQL Server | Azure | PowerShell | Cyber Security | Data Governance | GRC
 
-My work sits at the intersection of **data engineering, cybersecurity, digital transformation, and business systems integration**, with a strong focus on building platforms that are:
-- 🔐 Secure by design
-- 📊 Data-driven and insight-focused
-- 🏥 Interoperable and healthcare-ready
-- ⚙️ Automated, scalable, and maintainable
-- 🛡️ Aligned with governance, risk, and compliance principles
+A Senior data professional specialising in secure, governed enterprise data solutions, integrating cloud data engineering and analytics with cybersecurity principles and governance built into the design of enterprise data platforms.
 
 ### 🚀 What I'm Working On
 - 🔄 Building metadata-driven ETL frameworks with Airflow, Python, PowerShell, SQL Server & Azure.
