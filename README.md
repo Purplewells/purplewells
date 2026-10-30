@@ -8,6 +8,7 @@ I design and build enterprise data platforms where security and governance are b
 ### 🚀 What I'm Working On
 - 🔄 Cloud-native ETL/ELT pipelines with Azure Data Factory, SSIS and PowerShell
 - 📊 Enterprise BI solutions with Power BI, SQL Server & Azure Delta Lake.
+- 🙌 Cloud ETL Migration Pipeline: On-premises SQL Server to Azure
 - ☁️ Secure, governed data platforms aligned to NIST CSF 2.0
 - 🌐 Healthcare data transformation to HL7 FHIR
 - 📚 Exploring AI, Cybersecurity & Modern Data Engineering.
@@ -18,7 +19,7 @@ I design and build enterprise data platforms where security and governance are b
 |---------|-------------|
 | 🏥 [Healthcare Transformation Engine](https://github.com/Purplewells/HealthcareTransformationEngine) | Metadata-driven ETL engine for transforming data into HL7 FHIR resources. |
 | 🛡️ [Retail Risk Assessment](https://github.com/Purplewells/retail-risk-assessment-nist-csf) | Retail Risk Assessment (NIST CSF 2.0) |
-| 🎓 [NextSchoolTask](https://github.com/Purplewells/NextSchoolTask) | School management and task execution platform. |
+| 🎓 [Cloud ETL Migration](https://github.com/Purplewells/NextSchoolTask) | Cloud ETL Migration Pipeline: On-premises SQL Server to Azure. |
 | ♻️ [WasteCall](https://github.com/Purplewells/WasteCall) | Waste reporting and collection management platform. |
 | 💊 [Replenix](https://github.com/Purplewells/Replenix) | Merchandise management, inventory & pricing solution. |
 
