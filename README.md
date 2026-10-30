@@ -1,4 +1,3 @@
-
 <img src="./ben_github_banner.png" width="100%" />
 
 ### Senior Data Platform & BI Engineer | Secure Data Engineering | Data Governance
